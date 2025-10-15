@@ -1,0 +1,3 @@
+[submodule "ChangeMaker"]
+	path = ChangeMaker
+	url = https://github.com/jshamacher/ChangeMaker
