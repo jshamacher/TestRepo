@@ -1,0 +1,3 @@
+[submodule "ChangeMaker"]
+	path = ChangeMaker
+	url = git@github:jshamacher/ChangeMaker.git
